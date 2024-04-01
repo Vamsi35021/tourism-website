@@ -1,0 +1,113 @@
+.bg-image{
+    background-image: url("./image/tour1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.tourism-card{
+    text-align: center;
+    font-family: robort;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.button{
+    border-radius: 10px;
+    background-color:skyblue;
+    
+}
+.favourite_place_bg_container{
+    background-image: url("image/background.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.favourite-places-heading{
+    color: black;
+    font-size: 28px;
+    font-family: robort;
+    font-weight: bold;
+    padding: 24px;
+
+}
+.favourite-place-card{
+    background-color:white;
+    border: 8px;
+    padding: 16px;
+    border-radius: 20px;
+    margin: 18px;
+}
+.card-headding{
+    color: #0f0e46;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.card-discription{
+    font-family: Roboto;
+    font-size: 13px;
+    color: #6c6b70;
+}
+
+.favourite-place-card-image{
+    width: 80px;
+    height: 100px;
+}
+
+.new-img{
+    height: 100px;
+    width: 80px;
+}
+
+.detailed-view-bg-container{
+    background-image: url(https://img.freepik.com/free-vector/light-blue-curve-frame-template_53876-114602.jpg?w=360&t=st=1708122073~exp=1708122673~hmac=5b25fab8346f2794ae0b0b314d786817269d6b57d24f3fd6e86e9537f64b341e);
+ height: 100vh;
+background-size: cover;
+}
+.detailed-view-heading {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+  }
+  .detailed-view-card-container{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 20px;
+  }
+  .detailed-view-card-headding{
+
+    color: goldenrod;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 28px;
+   
+  }
+  .detailed-view-card-discription{
+    color: black;
+    font-family: "roboto";
+    font-size: 13px;
+    
+  }
+  .detailed-view-card-text{
+    padding: 16px;
+  }
+  .button2{
+    border-radius: 10px;
+    background-color: green;
+    margin: 20px;
+    text-align: end;
+    
+  }
+  
+  .b1{
+   margin-right: 60px;
+   border-radius: 10px;
+   background-color: white;
+
+  }
+
+  .unorder_list{
+    list-style-type: circle;
+
+  }
